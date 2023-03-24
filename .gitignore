@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+build/
+logs/
+
+# Protected data
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.venv
